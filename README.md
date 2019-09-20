@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Download Project git
 `git clone https://github.com/mariosergiosantos/alines-front.git`<br>
+`git remote add origin https://github.com/mariosergiosantos/alines-front.git` <br>
 `cd alines-front`<br>
 `npm i`
 
